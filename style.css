@@ -3,10 +3,28 @@
 body {
     display: flex;
     flex-direction: column;
+    padding: 0px 64px 0px 64px;
 }
 
 
 /*Header Rules*/
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header ul {
+    display: flex;
+    list-style: none;
+    column-gap: 10px;
+}
+
+.header a {
+    text-decoration: none;
+    color: black;
+}
 
 .header-title {
     font-size: 24px;
