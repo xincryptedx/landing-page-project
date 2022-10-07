@@ -129,11 +129,17 @@ body > * {
 .testimonials {
     background-color: rgb(209, 216, 231);
     display: flex;
+    justify-content: center;
+}
+
+.quote-box {
+    width: 800px;
+    display: flex;
     flex-direction: column;
+    justify-content: center;
 }
 
 .quote {
-    align-self: center;
     font-size: 24px;
     font-style: italic;
 }
