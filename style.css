@@ -24,6 +24,8 @@ body > * {
     align-items: center;
     justify-content: space-between;
     background-color: rgb(66, 66, 99);
+    padding-top: 16px;
+    padding-bottom: 16px;
 }
 
 .header ul {
