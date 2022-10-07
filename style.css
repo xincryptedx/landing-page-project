@@ -57,6 +57,7 @@ body > * {
     display: flex;
     justify-content: space-between;
     background-color: rgb(66, 66, 99);
+    column-gap: 32px;
 }
 
 .greeter-card {
