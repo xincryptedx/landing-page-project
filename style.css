@@ -1,7 +1,14 @@
+/*General Rules*/
+
 body {
     display: flex;
     flex-direction: column;
 }
 
-/*---------------------------------------*/
-/*---------------------------------------*/
+
+/*Header Rules*/
+
+.header-title {
+    font-size: 24px;
+    font-weight: 900;
+}
