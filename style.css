@@ -158,3 +158,11 @@ body > * {
     display: flex;
     justify-content: center;
 }
+
+.action-box {
+    display: flex;
+    justify-content: space-between;
+    background-color: cyan;
+    padding: 32px;
+    column-gap: 64px;
+}
