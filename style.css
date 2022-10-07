@@ -164,7 +164,7 @@ body > * {
     justify-content: space-between;
     align-items: center;
     background-color: cyan;
-    padding: 32px;
+    padding: 24px;
     column-gap: 64px;
     border-radius: 10px;
 }
