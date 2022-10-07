@@ -128,11 +128,13 @@ body > * {
 
 .testimonials {
     background-color: rgb(209, 216, 231);
-    padding: 100px 450px 100px 450px;
+
+    display: flex;
+    flex-direction: column;
 }
 
 .quote {
-    
+
 
     font-size: 24px;
     font-style: italic;
