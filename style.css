@@ -177,3 +177,10 @@ body > * {
     font-size: 20px;
     font-weight: 600;
 }
+
+.action-button {
+    width: 100px;
+    background-color: cyan;
+    border-color: black;
+    border-radius: 10px;
+}
