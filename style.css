@@ -87,3 +87,19 @@ body > * {
     color: rgb(66, 66, 99);
     border-radius: 10px;
 }
+
+/*Main Div Rules*/
+
+.main {
+    display: flex;
+    flex-direction: column;
+}
+
+.main-title {
+    display: flex;
+    justify-content: center;
+}
+
+.card-deck {
+    display: flex;
+}
