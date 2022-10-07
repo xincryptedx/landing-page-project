@@ -167,3 +167,8 @@ body > * {
     column-gap: 64px;
     border-radius: 10px;
 }
+
+.action-text {
+    display: flex;
+    flex-direction: column;
+}
