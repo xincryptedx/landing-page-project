@@ -165,4 +165,5 @@ body > * {
     background-color: cyan;
     padding: 32px;
     column-gap: 64px;
+    border-radius: 10px;
 }
