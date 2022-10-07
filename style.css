@@ -151,3 +151,10 @@ body > * {
 
     align-self: flex-end;
 }
+
+/*Call To Action Rules*/
+
+.call-to-action {
+    display: flex;
+    justify-content: center;
+}
