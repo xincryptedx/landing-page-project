@@ -123,3 +123,9 @@ body > * {
 .card-text {
     text-align: center;
 }
+
+/*Testimonials Rules*/
+
+.testimonials {
+    background-color: rgb(209, 216, 231);
+}
