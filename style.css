@@ -34,7 +34,7 @@ body > * {
 .header ul {
     display: flex;
     list-style: none;
-    column-gap: 10px;
+    column-gap: 30px;
     padding: 0px;
     margin: 0px;
 }
