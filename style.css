@@ -4,6 +4,9 @@
 }
 
 /*General Rules*/
+* {
+    font-family: Arial, sans-serif;
+}
 
 body {
     display: flex;
@@ -53,4 +56,29 @@ body > * {
 .greeter {
     display: flex;
     justify-content: space-between;
+    background-color: rgb(66, 66, 99);
+}
+
+.greeter-card {
+    display: flex;
+    gap: 32px;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.greeter-card-title {
+    font-size: 46px;
+    color: white;
+    font-weight: 800;
+}
+
+.greeter-card-text {
+    font-size: 24px;
+    color: white;
+    margin-bottom: auto;
+}
+
+.greeter-card-button {
+    height: 50px;
+    width: 150px;
 }
